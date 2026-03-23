@@ -1,0 +1,12 @@
+const http = require('http');
+const fs = require('fs');
+http.createserver((request,response) =>{
+    if(request.url === './favicon.icon'){
+        response.writeHead(204);
+        response.end
+    }
+    const date = new Date();
+    fs.appendFile()
+
+
+})
