@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Change made by Akash
+=======
+Change made by Amit
+>>>>>>> amit
